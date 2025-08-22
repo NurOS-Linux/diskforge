@@ -1,5 +1,7 @@
 # diskforge
 
+_This is the Russian version of the README. The English version is available [here](https://github.com/NurOS-Linux/diskforge/blob/main/README_eng.md)._
+
 **diskforge** - это утилита командной строки для создания образов дисков, резервного копирования и восстановления. Она поддерживает разреженное копирование, сжатие и другие функции.
 
 ## Особенности
